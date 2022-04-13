@@ -1,0 +1,9 @@
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
+Enable-RemoteDesktop
+
+cinst fiddler4
+cinst git-credential-winstore
+cinst console-devel
+cinst sublimetext2
+cinst poshgit
+cinst dotpeek
